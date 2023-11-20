@@ -7,3 +7,4 @@
 - [bleepingcomputer](https://www.bleepingcomputer.com/) - information security and technology news.
 - [darkreading](https://www.darkreading.com/)
 - [securityweek](https://www.securityweek.com/) - Cybersecurity News, Insight, and Analysis.
+- [thehackernews](https://thehackernews.com/)
