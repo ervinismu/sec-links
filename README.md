@@ -13,3 +13,6 @@
 ## Upskill
 - [hackthebox](https://hackthebox.com)
 - [tryhackme](https://tryhackme.com/)
+
+## Get a Job
+- [hackthebox.com/blog/cybersecurity-interview-questions-and-answers](https://www.hackthebox.com/blog/cybersecurity-interview-questions-and-answers)
