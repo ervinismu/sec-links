@@ -16,3 +16,6 @@
 
 ## Get a Job
 - [hackthebox.com/blog/cybersecurity-interview-questions-and-answers](https://www.hackthebox.com/blog/cybersecurity-interview-questions-and-answers)
+
+## Bug Bounty Platform
+- [zerodium](https://zerodium.com/index.html) - Zerodium is the premium bug bounty platform founded by cybersecurity experts with unparalleled experience in vulnerability research and zero-day exploits.
