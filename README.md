@@ -19,6 +19,7 @@
 - [bleepingcomputer](https://www.bleepingcomputer.com/) - information security and technology news.
 - [darkreading](https://www.darkreading.com/)
 - [hackthebox.com/blog](https://www.hackthebox.com/blog)
+- [osintnewsletter](https://osintnewsletter.com/) - OSINT news, tools, tactics, and techniques by Jake Creps
 - [securityweek](https://www.securityweek.com/) - Cybersecurity News, Insight, and Analysis.
 - [thehackernews](https://thehackernews.com/)
 
