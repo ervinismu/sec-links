@@ -1,9 +1,12 @@
 # sec-links
 
-## Bug Bounty Platform
+## Bug Bounty
+### Platform
 - [hackerone](https://hackerone.com/)
 - [intigriti](https://www.intigriti.com/)
 - [zerodium](https://zerodium.com/index.html)
+### Company Program
+- [leetcode](https://leetcode.com/bugbounty/)
 
 ## Event / Conferences
 - [defcon](https://defcon.org/)
