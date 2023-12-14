@@ -1,7 +1,6 @@
 # sec-links
 
 ## Bug Bounty
-
 ### Company Program
 - [leetcode](https://leetcode.com/bugbounty/)
 
@@ -21,7 +20,8 @@
 - [OWASP](https://owasp.org/) - The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software.
 
 
-## Readling List
+## Reading And Listening
+### Blog
 - [bleepingcomputer](https://www.bleepingcomputer.com/) - information security and technology news.
 - [darkreading](https://www.darkreading.com/)
 - [securityweek](https://www.securityweek.com/) - Cybersecurity News, Insight, and Analysis.
@@ -33,6 +33,9 @@
 ### Newsletter
 - [detectionengineering](https://www.detectionengineering.net/)
 - [osintnewsletter](https://osintnewsletter.com/) - OSINT news, tools, tactics, and techniques by Jake Creps
+
+### Podcast
+- [darknetdiaries](https://darknetdiaries.com/) - This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network. New episodes every first Tuesday of the month.
 
 ## Upskill
 - [hackthebox](https://hackthebox.com)
