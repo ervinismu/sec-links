@@ -26,6 +26,7 @@
 - [darkreading](https://www.darkreading.com/)
 - [securityweek](https://www.securityweek.com/) - Cybersecurity News, Insight, and Analysis.
 - [thehackernews](https://thehackernews.com/)
+- [malwaretech](https://malwaretech.com/) - an anonymous blog focused on detailing the deep and technical inner workings of malware.
 
 ### Company Blog
 - [hackthebox.com/blog](https://www.hackthebox.com/blog)
