@@ -39,8 +39,10 @@
 - [darknetdiaries](https://darknetdiaries.com/) - This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network. New episodes every first Tuesday of the month.
 
 ## Upskill
-- [hackthebox](https://hackthebox.com)
-- [tryhackme](https://tryhackme.com/)
+- [hackthebox](https://hackthebox.com) - Hack The Box gives individuals, businesses and universities the tools they need to
+continuously improve their cybersecurity capabilities — all in one place.
+- [tryhackme](https://tryhackme.com/) - We're a gamified, hands-on cyber security training platform that you can access through your browser, with blue, red and purple team content for all skill levels.
+- [root-me](https://www.root-me.org) - The fast, easy, and affordable way to train your hacking skills.
 
 ### Training
 - [zerodayengineering](https://zerodayengineering.com/)
