@@ -2,12 +2,12 @@
 
 ## Bug Bounty
 ### Company Program
-- [leetcode](https://leetcode.com/bugbounty/)
+- [leetcode](https://leetcode.com/bugbounty/) - LeetCode Bug Bounty Program
 
 ### Platform
-- [hackerone](https://hackerone.com/)
-- [intigriti](https://www.intigriti.com/)
-- [zerodium](https://zerodium.com/index.html)
+- [hackerone](https://hackerone.com/) - platform that connects you to ethical hackers who work for you continously protect your attack surface and find critical risks.
+- [intigriti](https://www.intigriti.com/) - platform where you can lunch, hunt, and manage bug bounty programs with the help of ethical hackers and researchers.
+- [zerodium](https://zerodium.com/index.html) - bug bounty program founded by cyber security expert that offers zero-day research.
 
 
 ## Event / Conferences
@@ -23,13 +23,13 @@
 ## Reading And Listening
 ### Blog
 - [bleepingcomputer](https://www.bleepingcomputer.com/) - information security and technology news.
-- [darkreading](https://www.darkreading.com/)
+- [darkreading](https://www.darkreading.com/) - news, analysis and insights on cybersecurity topics.
 - [securityweek](https://www.securityweek.com/) - Cybersecurity News, Insight, and Analysis.
-- [thehackernews](https://thehackernews.com/)
+- [thehackernews](https://thehackernews.com/) - news , actionable insights and analysis.
 - [malwaretech](https://malwaretech.com/) - an anonymous blog focused on detailing the deep and technical inner workings of malware.
 
 ### Company Blog
-- [hackthebox.com/blog](https://www.hackthebox.com/blog)
+- [hackthebox/blog](https://www.hackthebox.com/blog) - hackthebox official blogs.
 
 ### Newsletter
 - [detectionengineering](https://www.detectionengineering.net/)
@@ -45,7 +45,7 @@ continuously improve their cybersecurity capabilities — all in one place.
 - [root-me](https://www.root-me.org) - The fast, easy, and affordable way to train your hacking skills.
 
 ### Training
-- [zerodayengineering](https://zerodayengineering.com/)
+- [zerodayengineering](https://zerodayengineering.com/) - Zero Day vulnerability research and training.
 
 ## Get a Job
 - [hackthebox.com/blog/cybersecurity-interview-questions-and-answers](https://www.hackthebox.com/blog/cybersecurity-interview-questions-and-answers)
