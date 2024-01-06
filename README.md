@@ -1,5 +1,14 @@
 # sec-links
 
+## Table of Contents
+1. Bug Bounty
+2. Event / Conferences
+3. Foundation
+4. Reading and Listening
+5. Upskill
+6. Jobs
+7. Security Tracker
+
 ## Bug Bounty
 ### Company Program
 - [leetcode](https://leetcode.com/bugbounty/) - LeetCode Bug Bounty Program
@@ -47,7 +56,7 @@ continuously improve their cybersecurity capabilities — all in one place.
 ### Training
 - [zerodayengineering](https://zerodayengineering.com/) - Zero Day vulnerability research and training.
 
-## Get a Job
+## Jobs
 - [hackthebox.com/blog/cybersecurity-interview-questions-and-answers](https://www.hackthebox.com/blog/cybersecurity-interview-questions-and-answers)
 
 ## Security Tracker
