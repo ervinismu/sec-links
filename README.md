@@ -9,7 +9,7 @@
 6. Jobs
 7. Security Tracker
 
-## Bug Bounty
+## 1. Bug Bounty
 ### Company Program
 - [leetcode](https://leetcode.com/bugbounty/) - LeetCode Bug Bounty Program
 
@@ -19,17 +19,17 @@
 - [zerodium](https://zerodium.com/index.html) - bug bounty program founded by cyber security expert that offers zero-day research.
 
 
-## Event / Conferences
+## 2. Event / Conferences
 - [blackhat](https://www.blackhat.com/) - Founded in 1997, Black Hat is an internationally recognized cybersecurity event series providing the most technical and relevant information security research.
 - [defcon](https://defcon.org/) - is a hacker convention held annually in Las Vegas, Nevada.
 
 
-## Foundation
+## 3. Foundation
 - [OpenSSF](https://openssf.org/) - The Open Source Security Foundation (OpenSSF) seeks to make it easier to sustainably secure the development, maintenance, and consumption of the open source software (OSS) we all depend on.
 - [OWASP](https://owasp.org/) - The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software.
 
 
-## Reading And Listening
+## 4. Reading And Listening
 ### Blog
 - [bleepingcomputer](https://www.bleepingcomputer.com/) - information security and technology news.
 - [darkreading](https://www.darkreading.com/) - news, analysis and insights on cybersecurity topics.
@@ -47,17 +47,18 @@
 ### Podcast
 - [darknetdiaries](https://darknetdiaries.com/) - This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network. New episodes every first Tuesday of the month.
 
-## Upskill
+## 5. Upskill
 - [hackthebox](https://hackthebox.com) - Hack The Box gives individuals, businesses and universities the tools they need to
 continuously improve their cybersecurity capabilities — all in one place.
 - [tryhackme](https://tryhackme.com/) - We're a gamified, hands-on cyber security training platform that you can access through your browser, with blue, red and purple team content for all skill levels.
 - [root-me](https://www.root-me.org) - The fast, easy, and affordable way to train your hacking skills.
 
 ### Training
+- [academy.tcm-sec](https://academy.tcm-sec.com/) - training and certification from tcm-sec.
 - [zerodayengineering](https://zerodayengineering.com/) - Zero Day vulnerability research and training.
 
-## Jobs
+## 6. Jobs
 - [hackthebox.com/blog/cybersecurity-interview-questions-and-answers](https://www.hackthebox.com/blog/cybersecurity-interview-questions-and-answers)
 
-## Security Tracker
+## 7. Security Tracker
 - [https://security-tracker.debian.org/tracker/](security-tracker.debian.org/tracker/) - The data in this tracker comes solely from the bug database maintained by Debian's security team.
