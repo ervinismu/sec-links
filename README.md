@@ -57,6 +57,13 @@ continuously improve their cybersecurity capabilities — all in one place.
 - [academy.tcm-sec](https://academy.tcm-sec.com/) - training and certification from tcm-sec.
 - [zerodayengineering](https://zerodayengineering.com/) - Zero Day vulnerability research and training.
 
+### Youtube Channel
+- [youtube.com/@jstrosch](https://www.youtube.com/@jstrosch) - videos about malware analysis, reverse engineering and other cyber security topics.
+- [youtube.com/@ippsec](https://www.youtube.com/@ippsec) - mostly HTB related topics.
+- [youtube.com/@0xdf](https://www.youtube.com/@0xdf)
+- [youtube.com/@MalwareTechBlog](https://www.youtube.com/@MalwareTechBlog) - Tech insights from a software engineer and cybersecurity professional.
+- [youtube.com/@RanaKhalil101](https://www.youtube.com/@RanaKhalil101) - Channel that discusses security related topics
+
 ## 6. Jobs
 - [hackthebox.com/blog/cybersecurity-interview-questions-and-answers](https://www.hackthebox.com/blog/cybersecurity-interview-questions-and-answers)
 
