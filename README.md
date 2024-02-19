@@ -20,8 +20,10 @@
 
 
 ## 2. Event / Conferences
-- [blackhat](https://www.blackhat.com/) - Founded in 1997, Black Hat is an internationally recognized cybersecurity event series providing the most technical and relevant information security research.
-- [defcon](https://defcon.org/) - is a hacker convention held annually in Las Vegas, Nevada.
+- [Blackhat](https://www.blackhat.com/) - Founded in 1997, Black Hat is an internationally recognized cybersecurity event series providing the most technical and relevant information security research.
+- [Bluehat](https://www.microsoft.com/bluehat)
+- [Defcon](https://defcon.org/) - is a hacker convention held annually in Las Vegas, Nevada.
+
 
 
 ## 3. Foundation
