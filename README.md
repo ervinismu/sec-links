@@ -62,7 +62,8 @@ continuously improve their cybersecurity capabilities — all in one place.
 - [youtube.com/@ippsec](https://www.youtube.com/@ippsec) - mostly HTB related topics.
 - [youtube.com/@0xdf](https://www.youtube.com/@0xdf)
 - [youtube.com/@MalwareTechBlog](https://www.youtube.com/@MalwareTechBlog) - Tech insights from a software engineer and cybersecurity professional.
-- [youtube.com/@RanaKhalil101](https://www.youtube.com/@RanaKhalil101) - Channel that discusses security related topics
+- [youtube.com/@RanaKhalil101](https://www.youtube.com/@RanaKhalil101) - Channel that discusses security related topics.
+- [youtube.com/@lauriewired](https://www.youtube.com/@lauriewired) - Reverse engineer (malware, mobile analysis, etc).
 
 ## 6. Jobs
 - [hackthebox.com/blog/cybersecurity-interview-questions-and-answers](https://www.hackthebox.com/blog/cybersecurity-interview-questions-and-answers)
