@@ -1,11 +1,11 @@
 # sec-links
 
 ## Table of Contents
-1. [Bug Bounty](#bug-bounty)
-2. [Conferences](#conferences)
-3. [Foundation](#foundation)
-4. [Reading and Listening](#reading-and-listening)
-5. [Upskill](#upskill)
+1. [Bug Bounty](#1-bug-bounty)
+2. [Conferences](#2-conferences)
+3. [Foundation](#3-foundation)
+4. [Reading and Listening](#4-reading-and-listening)
+5. [Upskill](#5-upskill)
 
 ## 1. Bug Bounty
 ### Company Program
