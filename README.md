@@ -6,6 +6,7 @@
 3. [Foundation](#3-foundation)
 4. [Reading and Listening](#4-reading-and-listening)
 5. [Upskill](#5-upskill)
+6. [Community Resources](#6-community-resources)
 
 ## 1. Bug Bounty
 ### Company Program
@@ -56,3 +57,6 @@ continuously improve their cybersecurity capabilities — all in one place.
 - [youtube.com/@MalwareTechBlog](https://www.youtube.com/@MalwareTechBlog) - Tech insights from a software engineer and cybersecurity professional.
 - [youtube.com/@RanaKhalil101](https://www.youtube.com/@RanaKhalil101) - Channel that discusses security related topics.
 - [youtube.com/@lauriewired](https://www.youtube.com/@lauriewired) - Reverse engineer (malware, mobile analysis, etc).
+
+## 6. Community Resources
+- [Fuzzing101](https://github.com/antonio-morales/Fuzzing101) - An step by step fuzzing tutorial. A GitHub Security Lab initiative 
