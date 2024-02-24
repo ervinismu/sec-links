@@ -43,12 +43,13 @@
 ## 5. Upskill
 
 ### Academy or Training
-- [academy.tcm-sec](https://academy.tcm-sec.com/) - training and certification from tcm-sec.
-- [zerodayengineering](https://zerodayengineering.com/) - Zero Day vulnerability research and training.
-- [hackthebox](https://hackthebox.com) - Hack The Box gives individuals, businesses and universities the tools they need to
+- [Academy TCM](https://academy.tcm-sec.com/) - training and certification from tcm-sec.
+- [ZerodayEngineering](https://zerodayengineering.com/) - Zero Day vulnerability research and training.
+- [HackTheBox](https://hackthebox.com) - Hack The Box gives individuals, businesses and universities the tools they need to
 continuously improve their cybersecurity capabilities — all in one place.
-- [tryhackme](https://tryhackme.com/) - We're a gamified, hands-on cyber security training platform that you can access through your browser, with blue, red and purple team content for all skill levels.
-- [root-me](https://www.root-me.org) - The fast, easy, and affordable way to train your hacking skills.
+- [TryHackMe](https://tryhackme.com/) - We're a gamified, hands-on cyber security training platform that you can access through your browser, with blue, red and purple team content for all skill levels.
+- [Root-Me](https://www.root-me.org) - The fast, easy, and affordable way to train your hacking skills.
+- [PortSwigger - web security academy](https://portswigger.net/web-security) - Free, online web security training from the creators of Burp Suite.
 
 ### Youtube Channel
 - [youtube.com/@jstrosch](https://www.youtube.com/@jstrosch) - videos about malware analysis, reverse engineering and other cyber security topics.
