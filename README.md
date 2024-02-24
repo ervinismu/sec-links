@@ -18,9 +18,10 @@
 - [zerodium](https://zerodium.com/index.html) - bug bounty program founded by cyber security expert that offers zero-day research.
 
 ## 2. Conferences
-- [Blackhat](https://www.blackhat.com/) - Founded in 1997, Black Hat is an internationally recognized cybersecurity event series providing the most technical and relevant information security research.
+- [Blackhat](https://www.blackhat.com) - Founded in 1997, Black Hat is an internationally recognized cybersecurity event series providing the most technical and relevant information security research.
 - [Bluehat](https://www.microsoft.com/bluehat)
-- [Defcon](https://defcon.org/) - is a hacker convention held annually in Las Vegas, Nevada.
+- [Defcon](https://defcon.org) - is a hacker convention held annually in Las Vegas, Nevada.
+- [Nullcon](https://nullcon.net)
 
 ## 3. Foundation
 - [OpenSSF](https://openssf.org/) - The Open Source Security Foundation (OpenSSF) seeks to make it easier to sustainably secure the development, maintenance, and consumption of the open source software (OSS) we all depend on.
